@@ -1,6 +1,6 @@
 # 3dprints
 
-This article, entitled "Morphological Variation in Three-Dimensional Printed Replicas," was published in [CRHR Research Reports](https://scholarworks.sfasu.edu/crhr_research_reports/vol4/iss1/3/) in 2018 (open access). The LaTeX scripts are included in this repository, and can be viewed on [Overleaf](https://www.overleaf.com/read/mzmvrbpptktw). Unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN. Those data are embargoed for a period of five years, as the analysis of these bifaces is ongoing.
+This article, entitled "Morphological Variation in Three-Dimensional Printed Replicas," was published in [CRHR Research Reports](https://scholarworks.sfasu.edu/crhr_research_reports/vol4/iss1/3/) in 2018 (open access). The LaTeX scripts are included in this repository, and can be viewed on [Overleaf](https://www.overleaf.com/read/mzmvrbpptktw). Unprocessed data have been uploaded to the Open Science Framework, and the processed meshes to Zenodo @ CERN.
 
 ![](seld3dprint3.jpg)
 
